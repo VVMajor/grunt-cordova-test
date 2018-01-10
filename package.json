@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "",
+  "version": "",
+  "devDependencies": {
+    "cca": "^0.8.1",
+    "cordova": "6.5.0",
+    "grunt": "^1.0.1",
+    "grunt-cordovacli": "^1.0.1"
+  }
+}
